@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/saper.dir/main.c.o CMakeFiles/saper.dir/userCommunication.c.o CMakeFiles/saper.dir/gameLogic.c.o CMakeFiles/saper.dir/selectionModelStack.c.o  -o saper.exe -Wl,--out-implib,libsaper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
